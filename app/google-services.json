@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083072859145",
+    "firebase_url": "https://login-38177-default-rtdb.firebaseio.com",
+    "project_id": "login-38177",
+    "storage_bucket": "login-38177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083072859145:android:40b646f42bdf42b2253cd8",
+        "android_client_info": {
+          "package_name": "akshay.kumar.supportguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083072859145-3ecqosa5ageae0f0r0re7n6qe64mkps8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_v8vZ0_guTa9yACAs9CDpq9tORfz0BFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083072859145-3ecqosa5ageae0f0r0re7n6qe64mkps8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
